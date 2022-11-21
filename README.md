@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Isaac-Zarspada
-- 👀 I’m interested in Aviation, Jiu jitsu, Dad life, stocks/crypto and travel
-- 🌱 I’m currently learning C#, .Net frameworking and Data Warehousing
-- 💞️ I’m looking to collaborate on ANY PROJECT, be it stocks, crypto, app development, web3, game design.
+- 👀 I’m interested in Minecraft with my wife and son, Aviation, Jiu Jitsu, Travel, Robotics, and building The Kingdom
+- 🌱 I’m currently learning Networking topics for CCNA (just for fun) and Data Warehousing (professionally)
+- 💞️ I’m looking to collaborate on ANY PROJECT, rasberry pi builds, Ethical Hacking, app development, opening a SSAS company, game design- anything!
 - 📫 How to reach me IsaacZarspada@gmail.com or LinkedIn
 
 <!---
