@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Isaac-Zarspada
-- 👀 I love travelling the world with my wife and son and telling everyone about Jesus
-- 🌱 I’m currently learning Networking topics for CCNA and Data Warehousing (professionally).
-- 💞️ I’m looking to collaborate on ANY PROJECT, rasberry pi builds, Ethical Hacking, app development, opening a SSAS company, game design- anything!
-- 📫 How to reach me IsaacZarspada@gmail.com or LinkedIn @ Isaac Zarspada
+- 👀 I have 1 mission and I'm locked in on it: Conquest for the Glory of God.
+- 🌱 I’m currently growing my consultancy agency. Practically this looks like gathering a group of freelance professionals together and sharing contracts to better each others skills and gain traction in the marketplace. 
+- 💞️ I’m looking to collaborate on ANYTHING! I help everyone that comes my way, If I can't solve the problem I know someone who can.
+- 📫 Just email me IsaacZarspada@gmail.com or text me on LinkedIn @ Isaac Zarspada
 
 <!---
 Isaac-Zarspada/Isaac-Zarspada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
