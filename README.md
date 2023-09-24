@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @Isaac-Zarspada
-- 👀 I have 1 mission and I'm locked in on it: Conquest for the Glory of God.
-- 🌱 I’m currently growing my consultancy agency. Practically this looks like gathering a group of freelance professionals together and sharing contracts to better each others skills and gain traction in the marketplace. 
-- 💞️ I’m looking to collaborate on ANYTHING! I help everyone that comes my way, If I can't solve the problem I know someone who can.
-- 📫 Just email me IsaacZarspada@gmail.com or text me on LinkedIn @ Isaac Zarspada
+Hello 👋,  Isaac Here. I started Zarspada Consulting. A consulting firm.
+
+Zarspada Consulting is a tech firm that provides the following services and technologies.
+
+⚒️ Data Warehousing |  | Automation Scripts | Web UI | IOS Apps 
+📚 Python | SQL | C# | HTML+CSS+JavaScript 
+🤖 Trading Bots | Web Scrapers
+
 
 <!---
 Isaac-Zarspada/Isaac-Zarspada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
