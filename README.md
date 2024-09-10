@@ -1,10 +1,15 @@
-Hello 👋,  Isaac Here. I started Zarspada Consulting. A consulting firm.
+Hello there, Isaac here.
 
-Zarspada Consulting is a tech firm that provides the following services and technologies.
+Effective Data Engineer/Data Scientist. Avid AutoDidact with a focus on the following solutions, tech and tools
 
-⚒️ Data Warehousing |  | Automation Scripts | Web UI | IOS Apps 
-📚 Python | SQL | C# | HTML+CSS+JavaScript 
-🤖 Trading Bots | Web Scrapers
+📚 Languages 
+Python     | Seaborn, tkinter, scikit learn, tensorflow, matplotlib, plotly
+SQL        | T-sql, snowsql, psql, Oracle Sql
+C#         | .Net Framework
+TypeScript | Custom PowerBi Visuals
+JavaScript | Software Developement
+
+⚒️ Data Warehousing | Snowflake, Azure, Oracle, AWS
 
 
 <!---
