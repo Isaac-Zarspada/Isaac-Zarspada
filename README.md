@@ -19,5 +19,5 @@ Scalable data pipelines with cloud platforms
 
 📫 Reach me at:
 
-[[(https://www.linkedin.com/in/isaaczarspada/)]]
+[[LinkedIn]](https://www.linkedin.com/in/isaaczarspada/)
 Let's code, analyze, and innovate together! 🚀
