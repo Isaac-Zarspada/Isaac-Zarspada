@@ -1,18 +1,23 @@
-Hello there, Isaac here.
+Hi there! 👋
+Isaac Zarspada, a passionate software developer and Data Scientist. I thrive at the intersection of data and code, leveraging analytical skills to solve real-world problems and create impactful solutions.
 
-Effective Data Engineer/Data Scientist. Avid AutoDidact with a focus on the following solutions, tech and tools
+💡 What I do:
 
-📚 Languages 
-Python     | Seaborn, tkinter, scikit learn, tensorflow, matplotlib, plotly
-SQL        | T-sql, snowsql, psql, Oracle Sql
-C#         | .Net Framework
-TypeScript | Custom PowerBi Visuals
-JavaScript | Software Developement
+Develop robust, efficient Python applications.
+Analyze, visualize, and extract insights from complex datasets.
+Build and deploy machine learning models for predictive analytics.
+Collaborate on open-source projects and share knowledge with the developer community.
+📂 Tech Stack:
 
-⚒️ Data Warehousing | Snowflake, Azure, Oracle, AWS
+Languages: Python, SQL
+Libraries/Frameworks: Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib, Flask
+Tools: Jupyter Notebook, Git, Docker, VS Code
+🌱 Currently Exploring:
 
+Advanced deep learning techniques
+Scalable data pipelines with cloud platforms
 
-<!---
-Isaac-Zarspada/Isaac-Zarspada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📫 Reach me at:
+
+[[(https://www.linkedin.com/in/isaaczarspada/)]]
+Let's code, analyze, and innovate together! 🚀
