@@ -5,6 +5,7 @@ Just a chill data guy. I thrive at the intersection of data and blockchain, leve
 🌱 Currently Exploring:
 
 Advanced deep learning techniques
+
 Blockchain Layer 2 Protocols
 
 📫 Reach me at:
