@@ -1,8 +1,10 @@
 Hi there! 👋
 Isaac Zarspada, a passionate software developer and Data Scientist. I thrive at the intersection of data and code, leveraging analytical skills to solve real-world problems and create impactful solutions.
 
-💡 What I do:
 
+
+💡 What I do:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 Develop robust, efficient Python applications.
 Analyze, visualize, and extract insights from complex datasets.
 Build and deploy machine learning models for predictive analytics.
